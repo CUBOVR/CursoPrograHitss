@@ -1,0 +1,2 @@
+Los documentos presentados en esta página son los desafios para cada sesión del Curso de Programación Básica.
+Puede descargar el archivo .zip y abrir el documento con extensión html en su navegador para ejecutar el programa.
